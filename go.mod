@@ -1,3 +1,3 @@
-module github.com/go-lang-dev/logger
+module github.com/dev-soubhagya/logger
 
 go 1.17
